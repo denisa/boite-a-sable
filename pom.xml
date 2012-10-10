@@ -5,7 +5,7 @@
     <groupId>li.antonio</groupId>
     <artifactId>europe</artifactId>
     <packaging>pom</packaging>
-    <version>9-SNAPSHOT</version>
+    <version>9</version>
 
     <modules>
         <module>france</module>
@@ -29,6 +29,6 @@
         <connection>scm:git:ssh://git@github.com/denisa/boite-a-sable.git</connection>
 	<developerConnection>${project.scm.connection}</developerConnection>
         <url>https://github.com/SunRun/boite-a-sable</url>
-      <tag>HEAD</tag>
+      <tag>europe-9</tag>
   </scm>
 </project>
