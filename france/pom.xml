@@ -5,7 +5,7 @@
     <groupId>li.antonio.europe</groupId>
     <artifactId>france</artifactId>
     <packaging>pom</packaging>
-    <version>8</version>
+    <version>9-SNAPSHOT</version>
 
     <modules>
         <module>bourgogne</module>
