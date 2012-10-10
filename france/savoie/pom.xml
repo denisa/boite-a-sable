@@ -5,5 +5,5 @@
     <groupId>li.antonio.europe.france</groupId>
     <artifactId>savoie</artifactId>
     <packaging>pom</packaging>
-    <version>4-SNAPSHOT</version>
+    <version>4</version>
 </project>
