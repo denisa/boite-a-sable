@@ -26,8 +26,7 @@
     </build>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/denisa/boite-a-sable.git</connection>
-	<developerConnection>${project.scm.connection}</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/denisa/boite-a-sable.git</developerConnection>
         <url>https://github.com/SunRun/boite-a-sable</url>
       <tag>HEAD</tag>
   </scm>
