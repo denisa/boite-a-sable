@@ -5,5 +5,5 @@
     <groupId>li.antonio.europe.france</groupId>
     <artifactId>bourgogne</artifactId>
     <packaging>pom</packaging>
-    <version>11-SNAPSHOT</version>
+    <version>11</version>
 </project>
