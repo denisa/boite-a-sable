@@ -29,5 +29,6 @@
         <connection>scm:git:ssh://git@github.com/denisa/boite-a-sable.git</connection>
    	<developerConnection>${project.scm.connection}</developerConnection>
         <url>https://github.com/SunRun/boite-a-sable</url>
+    <tag>RELEASE-12</tag>
   </scm>
 </project>
