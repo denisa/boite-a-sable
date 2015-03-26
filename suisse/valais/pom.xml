@@ -5,6 +5,6 @@
     <groupId>li.antonio.europe.suisse</groupId>
     <artifactId>valais</artifactId>
     <packaging>pom</packaging>
-    <version>1776.16.2-SNAPSHOT</version>
+    <version>1776.15.2</version>
 
 </project>
